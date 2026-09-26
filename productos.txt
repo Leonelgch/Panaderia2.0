@@ -1,0 +1,12 @@
+Nombre                      Precio 
+
+Medialunas 	            $100
+Pan 			    $500
+Tortas negras               $150
+Cuernitos 		    $200
+Bizcochitos                 $200
+Sanguches de miga           $250
+Tortas 	                    $1000
+Chipa		            $300
+Budín 		            $500
+Alfajorcitos                $300
